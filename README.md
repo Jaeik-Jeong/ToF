@@ -1,2 +1,2 @@
 # ToF
-# ToF Image and Clustering-based Labeling-free Occupancy Counting Sensor
+ToF Image and Clustering-based Labeling-free Occupancy Counting Sensor
